@@ -1,0 +1,12 @@
+data/
+models/*.h5
+models/*.keras
+*.zip
+*.tar
+*.jpg
+*.png
+__pycache__/
+*.pyc
+env/
+.cropdl/
+.vscode/

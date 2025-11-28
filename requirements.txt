@@ -1,0 +1,11 @@
+tensorflow-cpu
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+flask
+Pillow
+h5py
+seaborn
+tqdm
